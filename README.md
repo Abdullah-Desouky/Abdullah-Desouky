@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Abdullah Al-Desouky 👋
 
-<!--
-**Abdullah-Desouky/Abdullah-Desouky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Engineering Student | Aspiring Backend Developer
+I am a dedicated Software Engineering student focused on building efficient, scalable, and clean code. My journey involves mastering computer science fundamentals to solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack & Skills
+- **Core:** C++, Object-Oriented Programming (OOP).
+- **Fundamentals:** Data Structures & Algorithms (DSA), Database Fundamentals.
+- **Software Excellence:** SOLID Principles, Design Patterns.
+- **Tools:** Git & GitHub.
+
+---
+
+### 🎯 Current Focus & Goals
+- 🎓 Deepening my knowledge in Software Architecture.
+- 💻 Building projects that demonstrate clean code practices.
+- 🇩🇪 Learning German to expand my professional opportunities in Europe.
+
+---
+
+### 📫 Connect with me:
+- **Email:** [abdullah.desouky.dev@gmail.com](mailto:abdullah.desouky.dev@gmail.com)
+
+---
+
+*"First, solve the problem. Then, write the code."*
